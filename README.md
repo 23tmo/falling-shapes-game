@@ -1,4 +1,4 @@
-[![Release](https://img.shields.io/github/v/release/23tmo/falling-shapes-game?style=flat-square)](https://github.com/23tmo/falling-shapes-game/releases)
+[![Version](https://img.shields.io/github/v/tag/developer/falling-shapes-game?sort=semver&style=flat-square&label=version)](https://github.com/23tmo/falling-shapes-game/tags)
 [![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
 [![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)](https://unity.com/)
 
