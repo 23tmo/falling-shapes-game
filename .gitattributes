@@ -1,0 +1,2 @@
+# Exclude bundled third-party Unity assets from GitHub language stats.
+"Assets/TextMesh Pro/**" linguist-vendored
